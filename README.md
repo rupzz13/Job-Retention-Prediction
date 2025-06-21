@@ -12,7 +12,6 @@ This Streamlit app predicts whether an employee is likely to leave their job usi
 - `Dashboard.pbix`: Power BI dashboard
 - `Employee_Retention_Prediction.ipynb`: Jupyter/Colab notebook
 - `Summary Word File.docx` and `Summary ppt.pptx`: Report and presentation
-- `requirements.txt`: Required Python packages
 
 ## 🚀 Deployment
 Deployed using Streamlit and developed in Spyder (Anaconda)
